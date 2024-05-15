@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¦ÅÖ¢8´º­›ô1J$8bb6727e-81ae-4e06-83f5-930074d334d2
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü²€Øøÿÿÿÿ8¸º­›ô1J$d1b485aa-210e-43a8-a9ef-985e6894000c
+‚
+java:S1854":Remove this useless assignment to local variable "aClass".(íèœÌúÿÿÿÿ8¹º­›ô1J$e0b8f444-d83b-4bc3-be24-ccde554a69d2
+s
+java:S1481"+Remove this unused "aClass" local variable.(íèœÌúÿÿÿÿ8»º­›ô1J$fb608534-b6ef-42ec-b19d-2ed7d4da3072
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¼º­›ô1J$c8adbf78-1f67-4e9c-8dd0-7c9856797388

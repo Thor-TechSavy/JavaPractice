@@ -1,0 +1,9 @@
+
+l	java:S106"+Replace this use of System.out by a logger.(ÜÇb8™óæ¹ö1J$b76e73c8-9872-490d-9cd5-2c8651806017
+r	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8óæ¹ö1J$ddeca246-e8d7-4441-982b-2ece9c606e02
+…
+java:S1128"=Remove this unused import 'java.util.random.RandomGenerator'.(—›­úÿÿÿÿ8Ÿóæ¹ö1J$e0dd276d-c8e6-444e-86d9-f0edb4d9e75b
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8èí¹ö1
+z
+java:S1144"7Remove this unused private "sqRtOfNPrimeNumber" method.(Ğõš8 óæ¹ö1J$42326bac-a56e-4281-9c7c-3fdb26e6da94

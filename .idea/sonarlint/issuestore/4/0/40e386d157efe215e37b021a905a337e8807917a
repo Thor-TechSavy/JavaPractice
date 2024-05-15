@@ -1,0 +1,15 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(â’»ùıÿÿÿÿ8Ô«°·ö1J$7b8df2e0-a60d-458b-8261-7e87607cccae
+‹
+java:S3518"CMake sure this expression can't be zero before doing this division.(Ò½Öûÿÿÿÿ8ä«°·ö1J$af052449-64ec-4ce7-8ca6-3b1e0526d340
+‹
+java:S3518!"CMake sure this expression can't be zero before doing this division.(Ò½Öûÿÿÿÿ8ä«°·ö1J$2f91c84d-e1bd-46eb-8739-8a008814983e
+m	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8ä«°·ö1J$681063a2-e6aa-4700-bd39-6cd73a25fdca
+m	java:S106"+Replace this use of System.out by a logger.(¯—©‡8ì«°·ö1J$0d8580f4-b76c-40a8-bdde-22e3897675ec
+m	java:S106"+Replace this use of System.out by a logger.(ÑÆœö8ì«°·ö1J$a188b99d-e04f-46c7-b5b1-84fcdf392a79
+m	java:S106"+Replace this use of System.out by a logger.(ëôßÊ8ì«°·ö1J$39abbe8e-12eb-4a28-b7f1-2995d453dd9c
+±
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ìëøĞ8î«°·ö1J$129875d0-8895-4f8b-ad5d-7673acbee5bc
+m	java:S106 "+Replace this use of System.out by a logger.(›õ¦Ì8ï«°·ö1J$db56c50a-6ef4-4db5-9da3-c76dd76a884e
+m	java:S106%"+Replace this use of System.out by a logger.(›õ¦Ì8ï«°·ö1J$95e3b7b0-b039-4de8-9182-12f85cb3d9c9
+m	java:S1061"+Replace this use of System.out by a logger.(ëôßÊ8ï«°·ö1J$8a8b12de-06ec-49e0-9961-c99559e72699

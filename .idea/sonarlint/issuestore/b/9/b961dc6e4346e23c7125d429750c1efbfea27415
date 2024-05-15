@@ -1,0 +1,18 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‡ß¿Íøÿÿÿÿ8ÑÒ˜õ1
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ÖÒ˜õ1
+‚
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(çÏúÿÿÿÿÿ8âÒ˜õ1
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(°îğ¨ÿÿÿÿÿ8ëÒ˜õ1
+r
+java:S2236"PRefactor the synchronisation mechanism to not use a Thread instance as a monitor(°îğ¨ÿÿÿÿÿ8ûÒ˜õ1
+„
+java:S2273"bMove this call to "notify()" into a synchronized block to be sure the monitor on "Thread" is held.(°îğ¨ÿÿÿÿÿ8†Ó˜õ1
+L	java:S106"+Replace this use of System.out by a logger.(¦ş˜üÿÿÿÿ8Ó˜õ1
+N
+java:S1068",Remove this unused "CONSTANT" private field.(‡ß¿Íøÿÿÿÿ8”Ó˜õ1
+G
+java:S1068"%Remove this unused "a" private field.(Ş‹®øÿÿÿÿ8”Ó˜õ1

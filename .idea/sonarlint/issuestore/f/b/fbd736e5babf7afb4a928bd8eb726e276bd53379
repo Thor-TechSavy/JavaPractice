@@ -1,0 +1,20 @@
+
+|
+java:S1854"9Remove this useless assignment to local variable "node2".(ß™ò¯8±«ÿÇô1J$b290da29-b949-411d-accf-5303977a50a3
+
+java:S1854"9Remove this useless assignment to local variable "node1".(ÔŒœƒÿÿÿÿÿ8±«ÿÇô1J$b5ab09c9-e691-4e15-b98b-cdc32b3627db
+œ
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ8€›şÇô1J$ef65fd6a-df32-44b9-abba-414663eeb5eb
+
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Èêúÿ8İîÇô1J$3855e83e-0d3e-4dde-bb13-f8d16fc02db3
+p
+java:S1113"-Do not override the Object.finalize() method.(Èêúÿ8İîÇô1J$09d36035-a207-431d-8c72-e5dc2fb43d89
+i
+java:S1174"&Make this finalize() method protected.(Èêúÿ8İîÇô1J$beebeafd-0d09-43f9-b46e-c4c6f8f4637e
+m	java:S106"+Replace this use of System.out by a logger.(ı™¦ˆ8ŸİîÇô1J$1a269ae1-4681-4099-8684-4f487aa131da
+x
+java:S1874"0Remove this use of "finalize"; it is deprecated.(¯¶ú“üÿÿÿÿ8¡İîÇô1J$173af3af-d53a-499f-97e9-19d5317d7df2
+p
+java:S1068"(Remove this unused "prev" private field.(Ã¿Ù×ùÿÿÿÿ8›öôÇô1J$76345dbb-74cf-40e1-ac1f-0db7fe56ed26
+k
+java:S1068"(Remove this unused "next" private field.(Õ¬·8ï’úÇô1J$7fb34cad-6951-49be-848b-7009c5c13903

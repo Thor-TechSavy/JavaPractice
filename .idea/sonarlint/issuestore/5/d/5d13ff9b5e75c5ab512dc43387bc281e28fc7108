@@ -1,0 +1,8 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ÜãÐÅüÿÿÿÿ8Ù›Ô„ó1J$6e30d363-79c7-4363-a6f9-71da29d27a10
+k	java:S108")Either remove or fill this block of code.(¹è‚Ÿ8Ú›Ô„ó1J$4862176c-666b-4b5e-9088-bb51e0eca896
+r	java:S106#"+Replace this use of System.out by a logger.( £§Àûÿÿÿÿ8Ú›Ô„ó1J$b6787626-b7f9-4a38-a6eb-aed695ecb4a5
+m	java:S106'"+Replace this use of System.out by a logger.(ÜÐ¦å8Ú›Ô„ó1J$ba4412f1-5231-431c-a26c-38ec60bfd80e
+]	java:S125("<This block of commented-out lines of code should be removed.(³ç‘âüÿÿÿÿ8åÉû±ó1
+r
+java:S1144"*Remove this unused private "drive" method.(½å°¥úÿÿÿÿ8ß›Ô„ó1J$18ab85e6-1e6f-41fc-8c97-936ef66fb81c

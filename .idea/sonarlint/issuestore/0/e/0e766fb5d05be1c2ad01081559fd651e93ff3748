@@ -1,0 +1,17 @@
+
+™
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Û‡Ó¼8Ñ×¦êô1J$8967cf29-1098-417c-ba6a-888289fff88b
+¤
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(Û¹É¡ùÿÿÿÿ8Ñ×¦êô1J$5fba35f5-6f6b-44a9-bf37-43d59ba7bf1f
+¤
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(¾û¬üÿÿÿÿ8Ñ×¦êô1J$206d835b-f88e-4165-b9d5-e04ce87bafe1
+r	java:S106"+Replace this use of System.out by a logger.(Ø“ÔÔùÿÿÿÿ8Ó×¦êô1J$e3c8aa24-0521-41d6-99cb-43acce123863
+m	java:S106"+Replace this use of System.out by a logger.(Œµ³‰8Ó×¦êô1J$1a22573c-62e6-435d-b1db-8910299fcf49
+r	java:S106"+Replace this use of System.out by a logger.(¼Üşôüÿÿÿÿ8Ó×¦êô1J$ce2e8637-7f1e-454b-b843-700d7425ca47
+m	java:S106"+Replace this use of System.out by a logger.(š‘÷8Ô×¦êô1J$6a63a6f5-7969-4616-8054-aa0e8ecc38cb
+z
+java:S1128"7Remove this unused import 'corejava.abstraction.Shape'.(¥÷Ñ”8¶Š§êô1J$64f723dc-ee6f-41aa-9dae-709e13b3abef
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¶Š§êô1J$c7ae45f5-4369-420e-b434-ca38483c66e5
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Õ×¦êô1J$7e4168d8-c3f8-4da8-a36f-39e646bd138f

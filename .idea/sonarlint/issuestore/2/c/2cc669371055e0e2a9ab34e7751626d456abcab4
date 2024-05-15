@@ -1,0 +1,11 @@
+
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¢ŒäÃşÿÿÿÿ8ÚëËÈó1J$d0751328-4ad6-4903-a8ef-da499165471d
+
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ªõ‘Œ8ŒÌÈó1J$6bb72eec-ee79-4b42-82f5-032a500d4ae0
+}
+java:S1854"5Remove this useless assignment to local variable "e".(”ï¿ûÿÿÿÿ8êëËÈó1J$02ea59ed-e4be-41ae-8ee5-cfed80f785d9
+n
+java:S1481"&Remove this unused "e" local variable.(”ï¿ûÿÿÿÿ8òëËÈó1J$6c42a884-f664-4ba3-b825-bf1614f87e29
+r	java:S106"+Replace this use of System.out by a logger.(¢ŒäÃşÿÿÿÿ8öëËÈó1J$e3f58cf9-827f-4a48-b009-a653899ba0a9
+m	java:S106"+Replace this use of System.out by a logger.(ªõ‘Œ8öëËÈó1J$1d8b7c24-865e-4a4d-a2cc-5a511cf01694

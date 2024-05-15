@@ -1,0 +1,7 @@
+
+
+java:S6201"MReplace this instanceof check and cast with 'instanceof CarValueObject other'(ÈúÕÑ8şãòó1J$a99fe4d6-8b09-4da3-8f4f-5b61af8d3c70
+…
+java:S1854("BRemove this useless assignment to local variable "carValueObject".(Çş’„8ƒ‚ãòó1J$9a5db9c7-febb-4508-bcbe-978d88b68046
+v
+java:S1481("3Remove this unused "carValueObject" local variable.(Çş’„8…‚ãòó1J$c7eed4ef-54a3-4cdb-b0ca-8c4b4b5781a1

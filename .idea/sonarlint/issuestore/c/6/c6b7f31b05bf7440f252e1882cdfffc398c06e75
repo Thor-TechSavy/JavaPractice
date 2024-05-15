@@ -1,0 +1,13 @@
+
+Š
+java:S1226("BIntroduce a new variable instead of reusing the parameter "child".(ËÒšäÿÿÿÿÿ8÷€Ÿƒó1J$03c6cf0f-d3fc-406f-a96d-2c0733dd4af7
+r	java:S106"+Replace this use of System.out by a logger.(ì“î÷ùÿÿÿÿ8ïÞ™ƒó1J$bf82cf3a-ef77-4d04-8391-63f63b735692
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(—ãè‚ûÿÿÿÿ8•þƒó1J$c4ead9d3-970c-4820-8cec-52befc37f0ea
+m	java:S106"+Replace this use of System.out by a logger.(¡Öâˆ8¡ížƒó1J$f280a7ac-d377-42a9-9f50-0e6eb83f38af
+m	java:S106"+Replace this use of System.out by a logger.(”Á™Ù8¡ížƒó1J$a31f18fa-7bad-4503-8d44-b46b6e8e4f15
+x
+java:S1854"5Remove this useless assignment to local variable "i".(ÖÚª8¨£žƒó1J$965cb48a-b44c-4ac0-b65e-e43b474d0f3b
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Â¶–Ãüÿÿÿÿ8ª£žƒó1J$98560fa5-b133-4cad-a873-2ff35faddfd2
+ƒ	java:S125$"<This block of commented-out lines of code should be removed.(ŸÑïïÿÿÿÿÿ8áŸƒó1J$e7b9f0d1-3ae2-49e6-9954-125a77f5955d
+m	java:S106,"+Replace this use of System.out by a logger.(ÅÊ½Ý8ý¢ïƒó1J$a97d462d-d962-40b9-8227-59677bb1df98
+m	java:S106-"+Replace this use of System.out by a logger.(±–Šì8œ…óƒó1J$f96a5998-69bd-4e40-be45-f948f39083a1
