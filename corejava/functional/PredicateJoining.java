@@ -1,11 +1,7 @@
 package corejava.functional;
 
-import corejava.abstraction.Shape;
-
-import java.util.ArrayList;
 import java.util.function.Function;
 import java.util.function.Predicate;
-import java.util.stream.Collectors;
 
 public class PredicateJoining {
 

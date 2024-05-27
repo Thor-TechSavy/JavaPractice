@@ -29,4 +29,11 @@ public interface Vehicle {
     private void hello() {
 
     }
+
+
+    boolean equals(Object obj);
+
+    int hashCode();
+
+
 }

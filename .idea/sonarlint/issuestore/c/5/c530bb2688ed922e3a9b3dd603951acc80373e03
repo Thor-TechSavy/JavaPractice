@@ -1,15 +1,15 @@
 
 „
-java:S1854"<Remove this useless assignment to local variable "function".(ι§Η‡ώÿÿÿÿ8λτ1J$9514c82d-0de6-49a8-8ea9-ff0fcdd97eda
+java:S1854"<Remove this useless assignment to local variable "function".(ι§Η‡ώÿÿÿÿ8λτ1J$056088b4-0303-4f90-8570-78f3b905747b
 ‡
-java:S1854"?Remove this useless assignment to local variable "comparator1".(ζ¥³Τόÿÿÿÿ8λτ1J$8bb8a153-56f6-4a55-b2c4-ba8d7313b2c1
-r	java:S106"+Replace this use of System.out by a logger.(²ΐ¶κύÿÿÿÿ8λτ1J$ed6463e1-5bc0-4e65-a532-84e0448a3626
+java:S1854"?Remove this useless assignment to local variable "comparator1".(ζ¥³Τόÿÿÿÿ8λτ1J$2ecd197a-1f1d-4adf-a19f-9ab393c462d1
+r	java:S106"+Replace this use of System.out by a logger.(²ΐ¶κύÿÿÿÿ8λτ1J$366d1967-24fe-4ac7-87b4-c8cb3269f99a
 …
-java:S1612"=Replace this lambda with method reference 'Integer::compare'.(ζ¥³Τόÿÿÿÿ8λτ1J$f3cb88af-096a-47ec-b254-6b94580d0dda
+java:S1612"=Replace this lambda with method reference 'Integer::compare'.(ζ¥³Τόÿÿÿÿ8λτ1J$4ed0f736-70fe-4566-b305-5832e9c3ee77
 x
-java:S1481"0Remove this unused "comparator1" local variable.(ζ¥³Τόÿÿÿÿ8λτ1J$6ad2b63f-d3a1-483f-b1c2-a5e596f556ef
+java:S1481"0Remove this unused "comparator1" local variable.(ζ¥³Τόÿÿÿÿ8λτ1J$beb27dd0-d937-4c75-b98b-f1d8cab9b681
 £
-java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ι§Η‡ώÿÿÿÿ8‘λτ1J$bb13f69b-4886-4a75-993e-38f821c1c661
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ι§Η‡ώÿÿÿÿ8‘λτ1J$8dea61fa-4feb-4a73-b28b-c9e6b7ed2176
 u
-java:S1481"-Remove this unused "function" local variable.(ι§Η‡ώÿÿÿÿ8‘λτ1J$b7004c62-9142-4ba5-8c7e-aed4855e7117
-r	java:S106"+Replace this use of System.out by a logger.(µ°βωÿÿÿÿ8‘λτ1J$d7eab178-cfef-4460-984f-1cd04425a638
+java:S1481"-Remove this unused "function" local variable.(ι§Η‡ώÿÿÿÿ8‘λτ1J$78b09bca-c6eb-4e68-b353-626f44d01de3
+r	java:S106"+Replace this use of System.out by a logger.(µ°βωÿÿÿÿ8‘λτ1J$1397ca2c-064f-4ce4-864c-58792c2cf13d

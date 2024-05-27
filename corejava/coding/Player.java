@@ -1,12 +1,8 @@
 package corejava.coding;
 
-import corejava.nestedclass.OuterClass2;
-
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.IntSummaryStatistics;
-import java.util.OptionalInt;
-import java.util.logging.XMLFormatter;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 

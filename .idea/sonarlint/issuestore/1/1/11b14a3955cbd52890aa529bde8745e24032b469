@@ -1,3 +1,4 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(â „Ýùÿÿÿÿ8üªýÖô1J$3405b90e-0bf5-4cc7-bcac-03fa63abd506
-r	java:S106"+Replace this use of System.out by a logger.(ÝÚ••ýÿÿÿÿ8„«ýÖô1J$80a18153-d6ef-44ff-97e6-2afe373230cb
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(èŽê»8š ¶Žû1J$29b7e9b6-fa31-48b7-9b34-9de203c4d6da
+r	java:S106	"+Replace this use of System.out by a logger.(â „Ýùÿÿÿÿ8  ¶Žû1J$eefb8251-1a83-48d0-91bf-2a7f1c7acf87
+r	java:S106"+Replace this use of System.out by a logger.(ÝÚ••ýÿÿÿÿ8¡ ¶Žû1J$6aa84552-47cb-4609-ab79-5e808935f6d4

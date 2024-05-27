@@ -1,8 +1,8 @@
 
 ¡
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8Úíªëô1J$14742e9b-3f80-40fe-a3c1-abc31c253974
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8Úíªëô1J$8bf2bca0-fbdc-4135-a782-96283b982686
 o
-java:S2201"'The return value of "get" must be used.(Üû‹Àúÿÿÿÿ8äíªëô1J$f7bb7c60-0949-4c48-a712-6ba8e0a5f5cc
+java:S2201"'The return value of "get" must be used.(Üû‹Àúÿÿÿÿ8äíªëô1J$4d33e547-626a-4fa8-b83f-5f1a70d3aea1
 i
-java:S3864"!Remove this use of "Stream.peek".(µ“¤¯ÿÿÿÿÿ8æíªëô1J$c9692121-fd13-4530-b4b7-6ee182763406
-r	java:S106"+Replace this use of System.out by a logger.(µ“¤¯ÿÿÿÿÿ8çíªëô1J$f2e82d39-a6ec-41f8-98cc-bf0131d97c20
+java:S3864"!Remove this use of "Stream.peek".(µ“¤¯ÿÿÿÿÿ8æíªëô1J$2a93858e-3796-4530-bb77-8ff2e6d12476
+r	java:S106"+Replace this use of System.out by a logger.(µ“¤¯ÿÿÿÿÿ8çíªëô1J$22f15ff5-bb4b-42f7-b142-7212573b42f1

@@ -26,7 +26,7 @@ public class EmployeeGroupBy {
 
        employees
                 .stream()
-                .filter(e -> e.getId() % 2 == 0)
+              //  .filter(e -> e.getId() % 2 == 0)
                 .collect(Collectors.groupingBy(Employee::getAge, TreeMap::new, Collectors.toSet()))
                 .forEach((integer, employees1) -> System.out.println(integer + ":" + employees1));
 

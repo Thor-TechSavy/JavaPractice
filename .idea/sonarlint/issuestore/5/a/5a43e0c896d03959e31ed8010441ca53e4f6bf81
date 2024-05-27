@@ -1,5 +1,5 @@
 
-u
+›
 java:S2975
-"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(‚àËùÿÿÿÿ8íÒºšö1
-m	java:S106"+Replace this use of System.out by a logger.(Ôë™×8áµ—ö1J$7ae2ff71-650a-4a9b-b453-e788746c39b4
+"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(‚àËùÿÿÿÿ8íÒºšö1J$468619bb-8749-4fef-89a0-61a9e262f488
+m	java:S106"+Replace this use of System.out by a logger.(Ôë™×8áµ—ö1J$28791def-0c9a-4b6e-936c-9172e3fce70c

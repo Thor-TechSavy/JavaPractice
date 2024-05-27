@@ -28,7 +28,7 @@ public class HandleExceptions {
         return 1 / 0;
     }
 
-    public int test2() throws SQLException {
+    public int test2() throws FileNotFoundException {
         System.out.println("test2");
         return 1 / 0;
     }

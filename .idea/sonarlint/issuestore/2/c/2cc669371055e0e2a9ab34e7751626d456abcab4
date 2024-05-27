@@ -1,11 +1,17 @@
 
 „
-java:S4973"<Strings and Boxed types should be compared using "equals()".(¢ŒäÃşÿÿÿÿ8ÚëËÈó1J$d0751328-4ad6-4903-a8ef-da499165471d
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¼×¸şÿÿÿÿ8²ˆ’ú1J$ce1eb17b-8b8a-4084-88aa-e316ff682ba2
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(¢ŒäÃşÿÿÿÿ8‘²ˆ’ú1J$6a1c56fe-68c8-46d7-8e30-aa89a88b1988
 
-java:S4973"<Strings and Boxed types should be compared using "equals()".(ªõ‘Œ8ŒÌÈó1J$6bb72eec-ee79-4b42-82f5-032a500d4ae0
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ªõ‘Œ8Ô›‰’ú1J$4ca485cf-ac95-4776-a10a-d3d8312f1ea9
 }
-java:S1854"5Remove this useless assignment to local variable "e".(”ï¿ûÿÿÿÿ8êëËÈó1J$02ea59ed-e4be-41ae-8ee5-cfed80f785d9
+java:S1854"5Remove this useless assignment to local variable "e".(”ï¿ûÿÿÿÿ8œ²ˆ’ú1J$735aa784-e7ab-4e59-8179-15e85cdbfcd6
 n
-java:S1481"&Remove this unused "e" local variable.(”ï¿ûÿÿÿÿ8òëËÈó1J$6c42a884-f664-4ba3-b825-bf1614f87e29
-r	java:S106"+Replace this use of System.out by a logger.(¢ŒäÃşÿÿÿÿ8öëËÈó1J$e3f58cf9-827f-4a48-b009-a653899ba0a9
-m	java:S106"+Replace this use of System.out by a logger.(ªõ‘Œ8öëËÈó1J$1d8b7c24-865e-4a4d-a2cc-5a511cf01694
+java:S1481"&Remove this unused "e" local variable.(”ï¿ûÿÿÿÿ8Ÿ²ˆ’ú1J$05a3d98d-af30-4a6c-b236-881175131616
+h
+java:S2129" Remove this "String" constructor(õïş¾ÿÿÿÿÿ8£²ˆ’ú1J$68d335c1-6808-4e3b-9df4-a3de67ab984b
+W	java:S125"<This block of commented-out lines of code should be removed.(§«¨i8¶®‹’ú1
+r	java:S106"+Replace this use of System.out by a logger.(¼×¸şÿÿÿÿ8¤²ˆ’ú1J$606eac40-ed36-4700-a696-dc6c8779bd86
+r	java:S106"+Replace this use of System.out by a logger.(¢ŒäÃşÿÿÿÿ8¤²ˆ’ú1J$f94b30b3-0bb0-441d-86ad-8fc3c026c37f
+m	java:S106"+Replace this use of System.out by a logger.(ªõ‘Œ8æ›‰’ú1J$beb53ddf-468f-4c51-9bb6-87ae6005447c

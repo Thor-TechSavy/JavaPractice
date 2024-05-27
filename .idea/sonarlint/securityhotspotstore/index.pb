@@ -1,10 +1,4 @@
 
-U
-%DependencyInjection/SpellChecker.java,5\2\52dcbf07414c4fe069c116811d9d92d3f54f90a8
-L
-DependencyInjection/Toy.java,e\f\ef9f14c29ec26f8602f8d7aace8cefd8cc626413
-\
-,DependencyInjection/SpecialSpellChecker.java,5\2\52e185a38185110c7ea157af083cfd0cc5713644
 T
 $corejava/methodoverriding/Child.java,a\3\a394b3e4f0ae0a12055be4242c9f9c18644e6890
 U
@@ -183,8 +177,6 @@ P
  corejava/coding/PrimeNumber.java,f\0\f0800f11f732cda79c4b1ff4e577f0bcf7dd1bf2
 V
 &corejava/coding/DuplicateElements.java,6\8\68c3165b5fab5833b6206a9c368bfbb9c201ff2b
-Y
-)corejava/coding/EmployeeListSortDesc.java,5\3\531333ce9b0068f23ce0843fc4049f0997f8753a
 K
 corejava/coding/Player.java,5\7\57e7f23119ffe09e2d3657d5d73e8700457baa3f
 `
@@ -197,19 +189,15 @@ A
 corejava/file.txt,3\d\3dd80c84a8ae0d11dfb2b604d0b523ab47bb8677
 U
 %projectstructures/multimodule/pom.xml,d\9\d99834b3d15b7b7fad1147834d70a53e4e3f50ac
-]
--projectstructures/multimodule/Business/pom.xm,4\a\4a87b557a75d30779b0b25b31bbaee61ffd3e1af
 ^
 .projectstructures/multimodule/Business/pom.xml,3\9\3939c64c8ae200040828a4324d05bdfdca932c18
-B
-spring/beanFactory,4\f\4f25dbb23893d2b96fca8a55cb977cf19b65140e
 E
 spring/beanFactory.md,e\5\e57f6837eb2169e60f2b37b0dc7a3a8710e7105a
-h
-8corejava/designpatterns/structural/proxy/ProxyShape.java,9\f\9f29ff819cc343e5538551329bd1041aa5fc26af
 j
 :corejava/designpatterns/structural/proxy/ProxyStudent.java,f\0\f0e0eed090b18b3a68f17d64635df6f54a1cd156
 e
 5corejava/designpatterns/structural/proxy/Student.java,0\6\0600b0b575652042be4089111f5b97d651c91442
 H
 spring/embeddedserver.md,2\3\23ee73f9e374d929f42a2850ef1b434a4498ba4c
+B
+corejava/file2.txt,7\e\7ee27a14d623d801de28557edf22b366f5bbfacb

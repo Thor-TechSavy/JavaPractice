@@ -37,6 +37,8 @@ package corejava.mutables;
 
 import corejava.abstraction.Vehicle;
 
+import java.util.Objects;
+
 /**
  *
  * Neither extensible not can extend, but it can implement
@@ -71,16 +73,16 @@ public record PersonRecord(String name, String address) implements Vehicle {
 //    /**
 //     * canonical constructor overriding
 //     */
-//    public PersonRecord(String name, String address) {
-//       if (Objects.nonNull(name)) try {
-//           throw new Exception("heeh");
-//       } catch (Exception e) {
-//           throw new RuntimeException(e);
-//       }
-//        Objects.nonNull(address);
-//        this.name = name;
-//        this.address = address;
-//    }
+    public PersonRecord(String name, String address) {
+       if (Objects.isNull(name)) try {
+           throw new Exception("heeh");
+       } catch (Exception e) {
+           throw new RuntimeException(e);
+       }
+        Objects.nonNull(address);
+        this.name = name;
+        this.address = address;
+    }
 
     /**
      * canonical constructor overriding - parameter name must match the arguments
@@ -91,15 +93,15 @@ public record PersonRecord(String name, String address) implements Vehicle {
 //        this.address = y;
 //    }
 
-    /**
-     * compact constructor
-     * It will print null, because the assignment happens at the last
-     */
-    public PersonRecord {
-        System.out.println(name());
-        System.out.println(address());
-
-    }
+//    /**
+//     * compact constructor
+//     * It will print null, because the assignment happens at the last
+//     */
+//    public PersonRecord {
+//        System.out.println(name());
+//        System.out.println(address());
+//
+//    }
 
     @Override
     public void move() {

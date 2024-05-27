@@ -1,9 +1,9 @@
 
 p
-java:S1604o"(Make this anonymous inner class a lambda(«ώÿÿÿÿÿ8ςΘπτ1J$edda7b46-5a8b-442d-b6d2-90ba59b5157e
+java:S1604o"(Make this anonymous inner class a lambda(«ώÿÿÿÿÿ8ςΘπτ1J$3c4f39ab-8004-4944-a63f-5da9d34b3763
 ¦
-java:S1104o"^Make employeeComparator a static final constant or non-public and provide accessors if needed.(«ώÿÿÿÿÿ8ςΘπτ1J$d652c1ad-57c4-46b9-9cb2-b163f3c24605
+java:S1104o"^Make employeeComparator a static final constant or non-public and provide accessors if needed.(«ώÿÿÿÿÿ8ςΘπτ1J$033402db-0e3f-40a9-ae57-97ac2cd66c69
 €
-java:S1444o"8Make this "public static employeeComparator" field final(«ώÿÿÿÿÿ8υΘπτ1J$3df3dfaa-a82c-445a-99e9-86350611404c
-r	java:S106f"+Replace this use of System.out by a logger.(•ε†Ρόÿÿÿÿ8¬Ιπτ1J$1bbdd2b6-6831-45d6-a626-56e85e951fa8
-r	java:S106g"+Replace this use of System.out by a logger.(«ψώÿÿÿÿ8΄Ιπτ1J$eb34fba5-942c-449a-8da4-272f71aef29d
+java:S1444o"8Make this "public static employeeComparator" field final(«ώÿÿÿÿÿ8υΘπτ1J$6b8d0a17-1dc7-46c7-bfe7-f77b5440aed1
+r	java:S106f"+Replace this use of System.out by a logger.(•ε†Ρόÿÿÿÿ8¬Ιπτ1J$4ffc478a-e539-4f18-8580-9c8d8d8d628d
+r	java:S106g"+Replace this use of System.out by a logger.(«ψώÿÿÿÿ8΄Ιπτ1J$66918140-c471-4ce5-983b-d96463951a67

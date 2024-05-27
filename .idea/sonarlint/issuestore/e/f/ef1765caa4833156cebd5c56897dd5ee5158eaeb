@@ -1,2 +1,15 @@
 
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ü“êˆûÿÿÿÿ8Â»Å¹ö1J$20a273bd-9096-475f-a2a4-3bc468301fb6
+™
+java:S1192"WDefine a constant instead of duplicating this literal "I am child test method" 3 times.(áÖ³(8Ä€¢áû1J$3cb48349-a080-4370-aa17-f3ca3b47e149
+‹
+java:S3518"CMake sure this expression can't be zero before doing this division.(Ò½Öûÿÿÿÿ8ö€¢áû1J$2e2c2f00-a60a-41a6-95fd-b4631e78fb6f
+
+java:S4144,"UUpdate this method so that its implementation is not identical to "test2" on line 31.(ŞÇ˜Şıÿÿÿÿ8û€¢áû1J$c26d6958-e490-4fea-a22c-0ffaa8e4703c
+l	java:S106"+Replace this use of System.out by a logger.(áÖ³(8…¢áû1J$8d950851-f1d1-407d-a318-2f4478cd40ba
+r	java:S106"+Replace this use of System.out by a logger.(¯ Ü øÿÿÿÿ8ˆ¢áû1J$1de78c1b-4c63-4278-8d7f-457c76b49cf7
+l	java:S106 "+Replace this use of System.out by a logger.(áÖ³(8Œ¢áû1J$378d6e23-d259-4800-9e53-ecac215a0047
+l	java:S106-"+Replace this use of System.out by a logger.(áÖ³(8¢áû1J$d3c5e726-4a40-4f9f-bdc4-1fa19deede51
+‚
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8à·®áû1J$bb6a125a-4601-4419-873b-2e0bd751a6b5
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ùÔ²áû1

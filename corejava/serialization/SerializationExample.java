@@ -8,11 +8,11 @@ public class SerializationExample implements Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
 
-    private static int age;
+    private int age;
     private final String name;
 
     public SerializationExample(final int age, final String name) {
-        SerializationExample.age = age;
+        this.age = age;
         this.name = name;
     }
 
@@ -23,7 +23,7 @@ public class SerializationExample implements Serializable {
     public String getName() {
         return name;
     }
-//
+
 //    Object readResolve() {
 //        return new SerializationExample(25, "ZEUS");
 //    }
