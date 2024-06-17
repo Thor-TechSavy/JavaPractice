@@ -16,8 +16,8 @@ public class PredicateJoining {
 
         System.out.println(checkLength.negate().or(checkStartingWith).or(checkEndingWith).test("k"));
         System.out.println(addFunction.apply(2));
-        System.out.println(addFunction.andThen(prodFunction).apply(2));
-        System.out.println(addFunction.compose(prodFunction).andThen(substractFunction).apply(2));
+        System.out.println(addFunction.andThen(prodFunction).apply(2)); //35
+        System.out.println(addFunction.compose(prodFunction).andThen(substractFunction).apply(2)); //10
 
 
 //        COLLECTIONS VS COLLECTORS

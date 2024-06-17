@@ -18,8 +18,8 @@ public class Deadlock {
     public static void main(String[] args) {
 
         Thread t1 = new Thread(() -> {
-            integerThreadLocal.set(5);
-            System.out.println("Inside thread 1: " + integerThreadLocal.get());
+//            integerThreadLocal.set(5);
+//            System.out.println("Inside thread 1: " + integerThreadLocal.get());
             synchronized (i) {
 //                try {
 //                    Thread.sleep(100);
@@ -34,8 +34,8 @@ public class Deadlock {
         });
 
         Thread t2 = new Thread(() -> {
-            integerThreadLocal.set(15);
-            System.out.println("Inside thread 2: " + integerThreadLocal.get());
+//            integerThreadLocal.set(15);
+//            System.out.println("Inside thread 2: " + integerThreadLocal.get());
 
             synchronized (j) {
                 System.out.println("hello thread 2");

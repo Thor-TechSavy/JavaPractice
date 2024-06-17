@@ -7,7 +7,7 @@ synchronised,            maintains insertion       arraylist. Synchronised.     
 dynamic resizing         order, no positional      order maintained,                 upon modification, copy the
 (50% of original         access because the        Dynamic resizing (double)         underlying array. Not
 storage),                storage underneath        the original storage              recommended for write heavy,
-positional               is not done in                   |                          good for read heavy operations
+positional               is not done in                   ^                          good for read heavy operations
 access (Index            contagious memory                |extends
 based search)            location. Instead,            [Stack]
                          nodes contains the           based on LIFO

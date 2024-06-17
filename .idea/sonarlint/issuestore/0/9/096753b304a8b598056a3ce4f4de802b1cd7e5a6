@@ -1,4 +1,6 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ãÿŒËûÿÿÿÿ8ùôÄ–õ1J$43c73d05-4a32-4b65-a8be-971beef0f4d3
-r	java:S106"+Replace this use of System.out by a logger.(Ù¿éûÿÿÿÿ8úôÄ–õ1J$f3ada0fb-74d4-4f43-a610-bdf34980f1e6
-r	java:S106"+Replace this use of System.out by a logger.(ãÿŒËûÿÿÿÿ8ÿ®Æ–õ1J$14a02540-bef4-4e4a-9c34-581c4b4cac7a
+t
+java:S1602",Remove useless curly braces around statement(‹æÀ±øÿÿÿÿ8Íû×öû1J$08040b23-237c-44cb-873f-086b8a26c642
+r	java:S106"+Replace this use of System.out by a logger.(ãÿŒËûÿÿÿÿ8ùôÄ–õ1J$c55c32a8-2d7f-403c-99a8-24431fe26307
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(„â¡ûÿÿÿÿ8Ïû×öû1J$f88d792e-12fc-4f90-8550-33399b16fbd5
+r	java:S106"+Replace this use of System.out by a logger.(ãÿŒËûÿÿÿÿ8ÿ®Æ–õ1J$7d4dde66-8584-46d7-9708-1e7249e1d952

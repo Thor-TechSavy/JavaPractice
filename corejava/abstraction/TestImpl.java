@@ -25,7 +25,11 @@ public class TestImpl extends TestAbstract {
         Vehicle.repair();
         int a1 = Vehicle.a;
         Scooter b = Vehicle.b;
+// can refer only static methods. Non-Static methods cannot be referenced from static contexts
+        biking();
+    }
 
+    public static void biking() {
 
     }
 }

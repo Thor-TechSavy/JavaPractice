@@ -12,17 +12,17 @@ public class ExecutorsServiceExample {
         ThreadPoolExecutor tpe = (ThreadPoolExecutor) es;
         Runnable r = () -> {
             System.out.println(tpe.getActiveCount());
-            Thread.currentThread().interrupt();
-            if (!Thread.currentThread().isInterrupted()) {
-                for (int i = 0; i < 10000; i++) {
-                    System.out.println("Hello");
-                }
-            }
+//            Thread.currentThread().interrupt();
+//            if (!Thread.currentThread().isInterrupted()) {
+//                for (int i = 0; i < 10000; i++) {
+//                    System.out.println("Hello");
+//                }
+//            }
         };
 
         es.execute(r);
+        es.awaitTermination(5000, TimeUnit.MILLISECONDS);
         es.shutdown();
-        es.awaitTermination(20000, TimeUnit.MILLISECONDS);
         System.out.println(tpe.getActiveCount());
     }
 }

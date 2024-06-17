@@ -1,11 +1,11 @@
 
 ™
-java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Û‡Ó¼8Ñ×¦êô1J$df00cc1f-45bc-4a43-9ba0-6f701767cde7
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Û‡Ó¼8şŸÀş1J$b8512f2b-4cc6-42dc-b832-d052d0c546b9
 ¤
-java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(Û¹É¡ùÿÿÿÿ8Ñ×¦êô1J$47e36d48-7b11-4b75-90ef-6263018cbd88
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(Û¹É¡ùÿÿÿÿ8‘şŸÀş1J$ae6f9da5-7a48-48da-b669-0111233f552d
 ¤
-java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(¾û¬üÿÿÿÿ8Ñ×¦êô1J$5bff245a-e04f-4e0a-ab81-1963182dc200
-r	java:S106"+Replace this use of System.out by a logger.(Ø“ÔÔùÿÿÿÿ8Ó×¦êô1J$40db351b-ad0e-4b31-86b5-ca0a5872143a
-m	java:S106"+Replace this use of System.out by a logger.(Œµ³‰8Ó×¦êô1J$1432225c-2f98-4b74-873a-03b51fffa1e5
-r	java:S106"+Replace this use of System.out by a logger.(¼Üşôüÿÿÿÿ8Ó×¦êô1J$4b33b663-9c07-470b-823a-49afc3fdc143
-m	java:S106"+Replace this use of System.out by a logger.(š‘÷8Ô×¦êô1J$f0208394-2e00-4fbb-afea-8e2c18cb3580
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(¾û¬üÿÿÿÿ8’şŸÀş1J$d2f3de99-df0c-493b-9abd-3b281ebb95d9
+r	java:S106"+Replace this use of System.out by a logger.(Ø“ÔÔùÿÿÿÿ8•şŸÀş1J$155da661-44be-43b3-9719-d3db3d455184
+m	java:S106"+Replace this use of System.out by a logger.(Œµ³‰8˜şŸÀş1J$885a9a36-7dfe-4fbd-9694-0e0bd7bbe711
+m	java:S106"+Replace this use of System.out by a logger.(ìÊÂá8™şŸÀş1J$9ced155f-9599-4f10-bd45-d0b823d18f8e
+m	java:S106"+Replace this use of System.out by a logger.(“Õ‹8šşŸÀş1J$8e831237-4571-4fbd-aaf0-afe507921379

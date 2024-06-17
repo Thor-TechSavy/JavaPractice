@@ -1,23 +1,23 @@
 
-œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Âææª8Ü²¤€õ1J$46bf24da-5335-4dcc-8548-607e7f320d9f
-¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çéÍˆûÿÿÿÿ8à²¤€õ1J$ffaabd08-37c9-4630-a0ee-7ca513c9fce3
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Âææª8Ü²¤€õ1J$cb348945-9497-4378-b4e6-ebd19c5a2379
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çéÍˆûÿÿÿÿ8à²¤€õ1J$86aad6c0-bf79-408a-b2d4-24deb843c685
 ˆ
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Âææª8ë²¤€õ1J$44724acc-59f7-4fcb-a27c-cdeb20677a84
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Âææª8ë²¤€õ1J$16d8cd44-8eaa-4ab7-99f6-a8b7354e216d
 
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(çéÍˆûÿÿÿÿ8ë²¤€õ1J$42f320de-076b-4641-8bf1-5fb05574e876
-m	java:S106"+Replace this use of System.out by a logger.(ãªšÙ8ó²¤€õ1J$c44a44c2-79e3-4bb8-b1a0-cf6f05172b90
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(çéÍˆûÿÿÿÿ8ë²¤€õ1J$c53a2793-058d-441d-a8d9-e89d1d2967c3
 n
-java:S1860"&Synchronize on a new "Object" instead.( ı¬ÿÿÿÿÿ8ı²¤€õ1J$b6f49da1-bccc-4023-8663-d756f3dc9125
-r	java:S106"+Replace this use of System.out by a logger.(ÇŸˆ…ÿÿÿÿÿ8ı²¤€õ1J$75a182fe-2a57-4fe4-8816-7fac40575fc5
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ı²¤€õ1J$24eebc0b-1257-4af7-ae78-e621361adcd7
+java:S1860"&Synchronize on a new "Object" instead.( ı¬ÿÿÿÿÿ8ı²¤€õ1J$fa78f05d-ca30-4064-8830-bf7943ef6844
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(—Ä‹’ÿÿÿÿÿ8ğëÎõû1J$98d6d4ac-430f-48bf-a9af-81bd727192ad
+r	java:S106"+Replace this use of System.out by a logger.(ÇŸˆ…ÿÿÿÿÿ8ı²¤€õ1J$c06467df-9655-437b-9309-841d8b44dc0f
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ı²¤€õ1J$d05ef708-18e0-4700-846b-db08428444a9
 i
-java:S1860"&Synchronize on a new "Object" instead.(æÿÛ8ı²¤€õ1J$43c76b9f-586b-4726-850d-12f9140ef1fd
-l	java:S106"+Replace this use of System.out by a logger.(¸±Ê]8ı²¤€õ1J$0bb6c760-e119-4db4-8fd4-7e88bd5518d4
-r	java:S106&"+Replace this use of System.out by a logger.(øÎ”‡ùÿÿÿÿ8ƒ³¤€õ1J$5d369fca-b21a-4701-a689-be794a7357a4
+java:S1860"&Synchronize on a new "Object" instead.(æÿÛ8ı²¤€õ1J$7fba9113-8e75-4b1d-bfdc-4282ba98f78d
+l	java:S106"+Replace this use of System.out by a logger.(¸±Ê]8ı²¤€õ1J$fda74895-9c0a-4a23-93a8-a6ca73c59802
 i
-java:S1860("&Synchronize on a new "Object" instead.(æÿÛ8ƒ³¤€õ1J$687dc8ed-608e-40f9-850d-0ad82236c725
-l	java:S106)"+Replace this use of System.out by a logger.(ßÔÅ/8ƒ³¤€õ1J$d5891a69-e049-4b8d-91ae-b32f8cf4539f
+java:S1860("&Synchronize on a new "Object" instead.(æÿÛ8ƒ³¤€õ1J$3ca4afae-b51e-43ba-859f-0f444691d9f7
+~	java:S125%"<This block of commented-out lines of code should be removed.(’æ¸Ô8µ¶Ïõû1J$56a2105e-9b1d-46a5-a4e2-871911773128
+l	java:S106)"+Replace this use of System.out by a logger.(ßÔÅ/8ƒ³¤€õ1J$d8a4c8be-489e-4d5e-b40b-1829a7ef0ca0
 n
-java:S1860/"&Synchronize on a new "Object" instead.( ı¬ÿÿÿÿÿ8…³¤€õ1J$a08559b8-6865-410f-9907-ac2c4f01ac92
-ƒ	java:S125*"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8…³¤€õ1J$40a8bd8a-eb90-4643-8d75-e1456b872173
-l	java:S1060"+Replace this use of System.out by a logger.(¸±Ê]8…³¤€õ1J$753ce929-b640-4fdf-9c8c-962b74af2456
+java:S1860/"&Synchronize on a new "Object" instead.( ı¬ÿÿÿÿÿ8…³¤€õ1J$c02309a6-2310-4874-8e7f-4bb2b1abd308
+ƒ	java:S125*"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8…³¤€õ1J$5c6c3da6-7180-45c5-a066-e0c9f11c19fc
+l	java:S1060"+Replace this use of System.out by a logger.(¸±Ê]8…³¤€õ1J$fab06220-af7f-4284-a3b3-0682ee175b71
