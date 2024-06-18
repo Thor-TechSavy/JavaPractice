@@ -8,5 +8,5 @@
                                     |
                                     |
                                     |
-                                 [queue inte rface] => FIFO approach, elements gets added from front, and removed from rear
+                                 [queue interface] => FIFO approach, elements gets added from front, and removed from rear
 
