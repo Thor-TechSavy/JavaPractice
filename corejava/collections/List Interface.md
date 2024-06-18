@@ -12,8 +12,8 @@ access (Index            contagious memory                |extends
 based search)            location. Instead,            [Stack]
                          nodes contains the           based on LIFO
                          value and reference          elements are inserted
-                         to the next node,            from rear and removed
-                         Not Synchronised,            from rear
+                         to the next node,            from front and removed
+                         Not Synchronised,            from front
                          always traverse
                          even for get(index)
                          methods which are
